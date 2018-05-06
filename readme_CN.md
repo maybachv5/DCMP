@@ -2,7 +2,9 @@
 
 DCMP :whale2: :sweat_drops: 是一个使用Python语言和Django框架搭建的Docker容器管理平台，适用于内网部署.
 
-Language:     [English](https://github.com/Mr-Linus/DCMP/blob/master/README.md)  | 中文
+语言:     [English](https://github.com/Mr-Linus/DCMP/blob/master/README.md)  | 中文
+
+Demo 地址: [DCMP-Demo](http://demo.geekfan.top)
 
 ### 特点 ###
 - WEB 监控
