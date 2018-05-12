@@ -4,7 +4,7 @@ DCMP :whale2: :sweat_drops: 是一个使用Python语言和Django框架搭建的D
 
 语言:     [English](https://github.com/Mr-Linus/DCMP/blob/master/README.md)  | 中文
 
-Demo 地址:   [DCMP-Demo](http://demo.geekfan.top)  username:admin password:dcmpdcmp123
+Demo 地址:   [DCMP-Demo](http://123.207.57.210)  username:admin password:dcmpdcmp123
 
 ### 特点 ###
 - WEB 监控
