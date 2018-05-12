@@ -4,7 +4,7 @@ DCMP :whale2: :sweat_drops: is a Docker Container Management Platform using the 
 
 Language:     English | [中文](https://github.com/Mr-Linus/DCMP/blob/master/readme_CN.md)
 
-Demo address:   [DCMP-Demo](http://demo.geekfan.top)   username:admin password:dcmpdcmp123
+Demo address:   [DCMP-Demo](http://123.207.57.210)   username:admin password:dcmpdcmp123
 
 ### Features ###
 - WEB MONITOR
